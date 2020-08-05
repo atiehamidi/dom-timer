@@ -1,0 +1,23 @@
+button {
+  color: blue;
+}
+
+.protected {
+  color: red;
+}
+body {
+  background-image: url("https://image.freepik.com/free-vector/leaves-background-with-metallic-foil_79603-913.jpg");
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  margin: 100px 400px;
+}
+input,
+label {
+  margin-left: 400px;
+}
